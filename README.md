@@ -1,9 +1,9 @@
 Neat resources woo
 
-- [Cerner Shadow Traffic -- testing of prod-shadow traffic](https://www.infoq.com/presentations/cerner-resiliency/?utm_source=presentations&utm_medium=sf&utm_campaign=qcon)
+- [Cerner Shadow Traffic -- testing of prod-shadow traffic](https://www.infoq.com/presentations/cerner-resiliency/?utm_source=presentations&utm_medium=sf&utm_campaign=qcon) [PDF](carl_chesser_qcon-sf-2019-confidence-building-w-chaos-engineering.pdf)
 
 Tech Debt / Arch Deb:
-- http://swreflections.blogspot.com/2012/02/technical-debt-how-much-is-it-really.html
+- [Technical Debt - How much is it Really Costing you?](http://swreflections.blogspot.com/2012/02/technical-debt-how-much-is-it-really.html)
 - https://martinfowler.com/bliki/TechnicalDebt.html
 - https://martinfowler.com/bliki/TechnicalDebtQuadrant.html
 
@@ -24,3 +24,6 @@ Books:
 - [Monolith to Microservices](https://www.amazon.com/gp/product/1492047848/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1)
 - [Software Architecture in Practice](https://www.amazon.com/gp/product/0321815734/ref=ox_sc_act_title_9?smid=ATVPDKIKX0DER&psc=1)
 - [Patterns of Enterprise Application Architecture](https://www.amazon.com/gp/product/0321127420/ref=ox_sc_act_title_10?smid=ATVPDKIKX0DER&psc=1)
+
+Kafka
+- [Kafka Youtube Video Series](https://www.youtube.com/watch?v=gg-VwXSRnmg&list=PLkz1SCf5iB4enAR00Z46JwY9GGkaS2NON&ab_channel=LearningJournal)
