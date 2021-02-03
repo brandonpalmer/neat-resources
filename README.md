@@ -2,10 +2,13 @@
 
 - [Cerner Shadow Traffic -- testing of prod-shadow traffic](https://www.infoq.com/presentations/cerner-resiliency/?utm_source=presentations&utm_medium=sf&utm_campaign=qcon) [PDF](carl_chesser_qcon-sf-2019-confidence-building-w-chaos-engineering.pdf)
 
-## Tech Debt / Arch Deb:
+## Tech Debt / Arch Debt:
 - [Technical Debt - How much is it Really Costing you?](http://swreflections.blogspot.com/2012/02/technical-debt-how-much-is-it-really.html)
 - https://martinfowler.com/bliki/TechnicalDebt.html
 - https://martinfowler.com/bliki/TechnicalDebtQuadrant.html
+
+## Architecture:
+- [ICONIQ Ideas: Growth - a conversation on technical leadership in modern engineering organizations](https://vimeo.com/504621606/41daa4ea89)
 
 ## Refactoring:
 - http://swreflections.blogspot.com/2012/04/what-refactoring-is-and-what-it-isnt.html
