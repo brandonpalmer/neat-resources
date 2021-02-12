@@ -17,6 +17,9 @@
 ## Kafka:
 - [Kafka Youtube Video Series](https://www.youtube.com/watch?v=gg-VwXSRnmg&list=PLkz1SCf5iB4enAR00Z46JwY9GGkaS2NON&ab_channel=LearningJournal)
 
+## RDS:
+- [Postgres Optimization](https://www.youtube.com/watch?t=4984&v=xqTNceHxkIo&feature=youtu.be&ab_channel=TverIO)
+
 ## Books:
 - [Patterns of Enterprise Application Architecture](https://www.amazon.com/gp/product/0321127420/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1)
 - [Architecting Cloud Native Applications](https://www.amazon.com/gp/product/1838643311/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1)
