@@ -9,6 +9,8 @@
 
 ## Architecture:
 - [ICONIQ Ideas: Growth - a conversation on technical leadership in modern engineering organizations](https://vimeo.com/504621606/41daa4ea89)
+- [Netflix PAAS](https://www.youtube.com/watch?v=BjKJyWeg88c&ab_channel=InfoQ)
+- [The Architect Elevator](https://www.youtube.com/watch?v=Zq2VcRZmz78&ab_channel=TNGTechnologyConsultingGmbH)
 
 ## Refactoring:
 - http://swreflections.blogspot.com/2012/04/what-refactoring-is-and-what-it-isnt.html
