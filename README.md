@@ -19,9 +19,11 @@
 ## Kafka:
 - [Kafka Youtube Video Series](https://www.youtube.com/watch?v=gg-VwXSRnmg&list=PLkz1SCf5iB4enAR00Z46JwY9GGkaS2NON&ab_channel=LearningJournal)
 - [Great tuning guide](https://towardsdatascience.com/10-configs-to-make-your-kafka-producer-more-resilient-ec6903c63e3f)
+- [Acks vs min.insync.replicas](https://accu.org/journals/overload/28/159/kozlovski/)
 - [Rebalancing](https://www.wix.engineering/post/4-steps-for-kafka-rebalance-notes-from-the-field)
 - [Rebalancing](https://medium.com/streamthoughts/apache-kafka-rebalance-protocol-or-the-magic-behind-your-streams-applications-e94baf68e4f2)
 - [Rebalancing](https://www.wix.engineering/post/4-steps-for-kafka-rebalance-notes-from-the-field)
+- [Rack/AZ aware consumers](https://developers.redhat.com/blog/2020/04/29/consuming-messages-from-closest-replicas-in-apache-kafka-2-4-0-and-amq-streams#conclusion)
 
 ## RDS:
 - [Postgres Optimization](https://www.youtube.com/watch?t=4984&v=xqTNceHxkIo&feature=youtu.be&ab_channel=TverIO)
